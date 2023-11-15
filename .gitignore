@@ -1,0 +1,19 @@
+# Ignore compiled files and build directories
+/target/
+Cargo.lock
+*.rs.bk
+**/target
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore executable files
+*.exe
+*.out
+
+# Ignore temporary files
+*.bak
+*.tmp
