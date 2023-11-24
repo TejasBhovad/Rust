@@ -1,0 +1,3 @@
+fn main() {
+    // another crate
+}
