@@ -20,9 +20,9 @@
 
 - [x] Module System
 
-- [ ] Common Collections
+- [x] Common Collections
 
-- [ ] Error handling
+- [x] Error handling
 
 - [ ] Generics
 
