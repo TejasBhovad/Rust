@@ -26,7 +26,9 @@
 
 - [X] Generics
 
-- [ ] Traits in Rust
+- [X] Traits in Rust
+
+- [ ] Lifetimes in Rust
 
 - ...
 
